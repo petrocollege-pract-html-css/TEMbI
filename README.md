@@ -27,4 +27,4 @@
 - Тыртов	[макет](https://www.figma.com/design/yJodMgILMUQhW9FrrPyU4h/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-%D1%87%D0%B0%D1%81%D0%BE%D0%B2?node-id=317-570&p=f&t=SQJBk1cq24vXfQXA-0)	[макет](https://www.figma.com/design/2i1cbcVlKdZp4eEMXJXBo9/%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82?node-id=0-1&p=f&t=xvWK6j1Hq9oI05YY-0)
 - Федорова	[макет](https://www.figma.com/design/BV0xI8E2LHP3oVihgcoXGq/%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%BE%D0%B5-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE?node-id=0-1&p=f&t=w9Aq5LceINEYVEs0-0)	[макет](https://www.figma.com/design/PM2w2JNUQpBQIyThwydfGE/%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B5?node-id=0-1&p=f&t=QTUgzivCBzeBnj4g-0)
 - Фёдорова	[макет](https://www.figma.com/design/Bcd3633Hu10Li0aeGOBevd/%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%8B?node-id=0-1&p=f&t=KcLoqluwekulwqhA-0)	[макет](https://www.figma.com/design/Y0KlJldsoUJPP7qqnxXC1q/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81?node-id=0-1&p=f&t=XXqwHtNW6Z6OWvl8-0)
-   ![image](https://github.com/user-attachments/assets/5e6026bc-38c9-4236-a0f2-45f0458082eb)
+
