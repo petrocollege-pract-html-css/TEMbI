@@ -1,5 +1,5 @@
 # ТЕМЫ
-Темы и варианты сайтов
+Варианты сайтов
 
 
 - Аншукова	[макет](https://www.figma.com/design/CDIskeDKH8weTxq0bCASer/LEVEL-Fitness-%2F-Main-(PROD)?node-id=0-1&p=f&t=hndSXKGgMSVig41H-0)	[макет](https://www.figma.com/design/IZPn9r3qDK3xcI90pjlbxR/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C?node-id=0-1&p=f&t=iPLoQyxShii9OEck-0)
