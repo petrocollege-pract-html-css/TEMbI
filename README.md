@@ -2,7 +2,7 @@
 Темы и варианты сайтов
 
 
-- Аншукова	[макет](https://www.figma.com/design/CDIskeDKH8weTxq0bCASer/LEVEL-Fitness-%2F-Main-(PROD)?node-id=0-1&p=f&t=hndSXKGgMSVig41H-0)	[макет](https://www.figma.com/design/CDIskeDKH8weTxq0bCASer/LEVEL-Fitness-%2F-Main-(PROD)?node-id=0-1&p=f&t=hndSXKGgMSVig41H-0)
+- Аншукова	[макет](https://www.figma.com/design/CDIskeDKH8weTxq0bCASer/LEVEL-Fitness-%2F-Main-(PROD)?node-id=0-1&p=f&t=hndSXKGgMSVig41H-0)	[макет](https://www.figma.com/design/IZPn9r3qDK3xcI90pjlbxR/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C?node-id=0-1&p=f&t=iPLoQyxShii9OEck-0)
 - Бабич	[макет](https://www.figma.com/design/QMBCwrRYMZkdegVS5hYDWQ/%D1%85%D0%B8%D0%BC%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0?node-id=392-2&p=f&t=813sqDtMO77A1kWq-0)	[макет](https://www.figma.com/design/v6H38JFUVvCffCatJlfu6l/%D0%BA%D1%83%D1%80%D1%81%D1%8B-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0?node-id=0-1&p=f&t=gKXO9RmPhfxoFrkz-0)
 - Бакаев	[макет](https://www.figma.com/design/IDdWJx6mF2zcwXG9IHCTeW/%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA?node-id=0-1&p=f&t=lAC19vXwhjamCXpj-0)	[макет](https://www.figma.com/design/23cqsV7UvjsABiA3wLs447/%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0?node-id=0-1&p=f&t=KCCop5NPmGsfRvwR-0)
 - Вологина	[макет ](https://www.figma.com/design/Bcd3633Hu10Li0aeGOBevd/%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%8B?node-id=0-1&p=f&t=KcLoqluwekulwqhA-0)	[макет](https://www.figma.com/design/Bcd3633Hu10Li0aeGOBevd/%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D1%8B?node-id=0-1&p=f&t=KcLoqluwekulwqhA-0)
